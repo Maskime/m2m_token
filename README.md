@@ -1,4 +1,5 @@
-#M2M Token
+# M2M Token
+
 Here is the issue : You have a Bot and a REST Api that needs to communicate. 
 As the REST Api is an entrypoint to your system, you don't want it to be unsecured (at least you should not want that.)
 At the same time, you don't want them to have plain text password configured somewhere, because, it can be guessed.
